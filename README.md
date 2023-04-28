@@ -1,7 +1,7 @@
 # NautilusUB
 L bozo
   
-Wondering about the description? Well, basically this is a fake proxy. You heard me. Fake. I made this so you can download it and send it to an unsusppecting friend (not virus, see below)
+Wondering about the description? Well, basically this is a fake proxy. You heard me. Fake. I made this so you can download it and send it to an unsuspecting friend (not virus, see below)
 
 # What is this?
 
