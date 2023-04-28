@@ -1,0 +1,13 @@
+body {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+.desc {
+  color: grey;
+}
+
+hr {
+  border: 1px solid black;
+}
