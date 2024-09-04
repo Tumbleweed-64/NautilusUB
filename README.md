@@ -13,4 +13,4 @@ If you go in the <code>scripts.js</code> file, you'll see it's very customizable
 
 # 2024 UPDATE
 
-V2 is coming in the next week! It will be kept on a separate repo like Tumbleweed-64/NautilusV2. V2 includes insane graphical upgrades like CSS animations, and some new cursed queries. Start an issue if a query is blocked, because that's pretty common with schools.
+Version 2.00 is officially released! You can find it at [Tumbleweed-64/NautilusV2](https://github.com/Tumbleweed-64/NautilusV2). V2 includes insane graphical upgrades like CSS animations, and some new cursed queries. Start an issue if a query is blocked, because that's pretty common with schools.
